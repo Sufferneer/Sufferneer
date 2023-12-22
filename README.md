@@ -1,2 +1,2 @@
-Just a random dude messing with FNF
-Don't expect much from me
+just a random dude messing with stuff,
+don't expect much from me
