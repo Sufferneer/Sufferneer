@@ -1,4 +1,4 @@
-<h4 align="center">sufferneer</h4>
+<h2 align="center">sufferneer</h2>
 <h3 align="center">A guy from Hong Kong with too much time in his hands.</h3>
 
 - Currently learning **C++, Unity, GML, Chinese Literature**
