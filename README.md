@@ -1,4 +1,5 @@
-<h3 align="center">A giy from Hong Kong with too much time in his hands.</h3>
+<h4 align="center">sufferneer</h4>
+<h3 align="center">A guy from Hong Kong with too much time in his hands.</h3>
 
 - Currently learning **C++, Unity, GML, Chinese Literature**
 
