@@ -1,15 +1,27 @@
 <h2 align="center">sufferneer</h2>
-<h3 align="center">A guy from Hong Kong with too much time in his hands.</h3>
+<h3 align="center">
+  A guy with too much time in his hands.
+</h3>
 
-- Currently learning **C++, Unity, GML, Chinese Literature**
-
-- Fun fact **I learn biology for the sake of interest, not for academic gain**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://twitter.com/sufferneer" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="sufferneer" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/sufferneer" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="sufferneer" height="30" width="40" /></a>
+<p align="center">
+  He/Him | May 15th | 🇭🇰
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.blender.org/" target="_blank" rel="noreferrer"> <img src="https://download.blender.org/branding/community/blender_community_badge_white.svg" alt="blender" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.adobe.com/in/products/illustrator.html" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
+<p align="center">
+  My main languages are <b>Haxe and Python</b><br>
+  Currently learning <b>C++, Lua and GML</b>
+</p>
+
+<h3 align="center">Proud user of</h3><br>
+<p align="center">
+  <a href="https://code.visualstudio.com" target="blank"><img align="center" src="https://code.visualstudio.com/assets/branding/code-stable.png" alt="Visual Studio Code" height="60" /></a>
+  <a href="https://haxeflixel.com" target="blank"><img align="center" src="https://haxeflixel.com/images/haxeflixel.svg" alt="HaxeFlixel" height="60" /></a>
+  <a href="https://ibispaint.com/?lang=en-US" target="blank"><img align="center" src="https://static.wikia.nocookie.net/logopedia/images/8/80/IbisPaint_X_%28App_Icon%29.svg/revision/latest?cb=20250823204547" alt="iBisPaint" height="60" /></a>
+  <a href="https://www.blender.org" target="blank"><img align="center" src="https://download.blender.org/branding/community/blender_community_badge_white.png" alt="Blender" height="60" /></a>
+</p>
+
+<h3 align="center">Socials</h3><br>
+<p align="center">
+  <a href="https://twitter.com/sufferneer" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="sufferneer" height="30" width="40" /></a>
+  <a href="https://www.youtube.com/c/sufferneer" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="sufferneer" height="30" width="40" /></a>
+</p>
