@@ -5,11 +5,12 @@
 
 <p align="center">
   He/Him | May 15th | 🇭🇰
+  Artist / Low-Poly 3D Modeller / Programmer / Music Producer
 </p>
 
 <p align="center">
   My main languages are <b>Haxe and Python</b><br>
-  Currently learning <b>C++, Lua and GML</b>
+  Currently learning <b>C#, Lua and GML</b>
 </p>
 
 <h3 align="center">Proud user of</h3><br>
