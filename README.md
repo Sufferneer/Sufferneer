@@ -4,7 +4,7 @@
 </h3>
 
 <p align="center">
-  He/Him | May 15th | 🇭🇰
+  He/Him | May 15th | 🇭🇰 <br>
   Artist / Low-Poly 3D Modeller / Programmer / Music Producer
 </p>
 
