@@ -9,13 +9,25 @@
 </p>
 
 <p align="center">
-  My main languages are <b>Haxe and Python</b><br>
-  Currently learning <b>C#, Lua and GML</b>
+  <b>Proficient</b>
+  <ul>
+    <li>Haxe</li>
+    <li>Python</li>
+    <li>JavaScript</li>
+    <li>Lua</li>
+  </ul>
+  <b>Learning</b>
+  <ul>
+    <li>C#</li>
+    <li>GML</li>
+    <li>GDScript</li>
+  </ul>
 </p>
 
 <h3 align="center">Proud user of</h3><br>
 <p align="center">
   <a href="https://code.visualstudio.com" target="blank"><img align="center" src="https://code.visualstudio.com/assets/branding/code-stable.png" alt="Visual Studio Code" height="60" /></a>
+  <a href="https://www.jetbrains.com/idea" target="blank"><img align="center" src="https://resources.jetbrains.com/storage/products/company/brand/logos/IntelliJ_IDEA_icon.svg" alt="Visual Studio Code" height="60" /></a>
   <a href="https://haxeflixel.com" target="blank"><img align="center" src="https://haxeflixel.com/images/haxeflixel.svg" alt="HaxeFlixel" height="60" /></a>
   <a href="https://ibispaint.com/?lang=en-US" target="blank"><img align="center" src="https://static.wikia.nocookie.net/logopedia/images/8/80/IbisPaint_X_%28App_Icon%29.svg/revision/latest?cb=20250823204547" alt="iBisPaint" height="60" /></a>
   <a href="https://www.blender.org" target="blank"><img align="center" src="https://download.blender.org/branding/community/blender_community_badge_white.png" alt="Blender" height="60" /></a>
