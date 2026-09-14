@@ -1,14 +1,14 @@
-<h2 align="center">sufferneer</h2>
-<h3 align="center">
+<h2>sufferneer</h2>
+<h3>
   A guy with too much time in his hands.
 </h3>
 
-<p align="center">
+<p>
   He/Him | May 15th | 🇭🇰 <br>
   Artist / Low-Poly 3D Modeller / Programmer / Music Producer
 </p>
 
-<p align="center">
+<p>
   <b>Proficient</b>
   <ul>
     <li>Haxe</li>
@@ -24,8 +24,8 @@
   </ul>
 </p>
 
-<h3 align="center">Proud user of</h3><br>
-<p align="center">
+<h3>Proud user of</h3><br>
+<p>
   <a href="https://code.visualstudio.com" target="blank"><img align="center" src="https://code.visualstudio.com/assets/branding/code-stable.png" alt="Visual Studio Code" height="60" /></a>
   <a href="https://www.jetbrains.com/idea" target="blank"><img align="center" src="https://resources.jetbrains.com/storage/products/company/brand/logos/IntelliJ_IDEA_icon.svg" alt="Visual Studio Code" height="60" /></a>
   <a href="https://haxeflixel.com" target="blank"><img align="center" src="https://haxeflixel.com/images/haxeflixel.svg" alt="HaxeFlixel" height="60" /></a>
@@ -33,8 +33,8 @@
   <a href="https://www.blender.org" target="blank"><img align="center" src="https://download.blender.org/branding/community/blender_community_badge_white.png" alt="Blender" height="60" /></a>
 </p>
 
-<h3 align="center">Socials</h3><br>
-<p align="center">
+<h3>Socials</h3><br>
+<p>
   <a href="https://twitter.com/sufferneer" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="sufferneer" height="30" width="40" /></a>
   <a href="https://www.youtube.com/c/sufferneer" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="sufferneer" height="30" width="40" /></a>
 </p>
